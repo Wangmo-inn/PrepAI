@@ -42,7 +42,7 @@ export default function Register() {
               value={name}
               onChange={e => setName(e.target.value)}
               className="w-full bg-[var(--bg-input)] border border-[var(--border-default)] rounded-[var(--radius-md)] px-4 py-2.5 text-[var(--text-primary)] text-sm focus:outline-none focus:border-[var(--accent)] focus:ring-1 focus:ring-[var(--accent-border)] transition-all duration-150"
-              placeholder="Lakshya Johari"
+              placeholder="Rigzin Wangmo"
               required
             />
           </div>

@@ -102,6 +102,7 @@ npm start
 cd client
 npm run build
 ```
+<img width="2778" height="1415" alt="image" src="https://github.com/user-attachments/assets/689c10d8-f648-4cab-a952-8c7f804fb96b" />
 
 ## Author
 

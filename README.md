@@ -10,6 +10,7 @@ PrepAI is a full-stack MERN application that helps engineering candidates prepar
 - **Resume Tools** — Resume upload and parsing (PDF) with AI-generated analysis and tailored interview questions.
 - **Authentication** — Email/password login plus Google OAuth, backed by stateless JWT sessions.
 - **Dashboard & Analytics** — Per-user progress tracking, interview history, and streaks.
+<img width="2778" height="1415" alt="image" src="https://github.com/user-attachments/assets/689c10d8-f648-4cab-a952-8c7f804fb96b" />
 
 ## Tech Stack
 
@@ -102,7 +103,6 @@ npm start
 cd client
 npm run build
 ```
-<img width="2778" height="1415" alt="image" src="https://github.com/user-attachments/assets/689c10d8-f648-4cab-a952-8c7f804fb96b" />
 
 ## Author
 
